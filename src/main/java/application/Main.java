@@ -5,6 +5,7 @@ import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.ChessPosition;
 
+import java.time.LocalDateTime;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -37,5 +38,5 @@ public class Main {
                 sc.nextLine();
             }
         }
-    }
+   }
 }
